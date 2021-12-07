@@ -1,0 +1,169 @@
+/***********************Odile**************************/
+.search {
+  padding: 0px 20px;
+  background-color: #da1e28;
+}
+.q-field--standout .q-field__control {
+  padding: 0px;
+}
+.q-pa-md {
+  padding: 5px 16px;
+}
+.pageScan {
+  padding-top: 2.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.scan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+}
+.image {
+  height: 100%;
+  object-fit: contain;
+}
+.affichage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.iconeAfficher {
+  background-color: brown;
+}
+.deux-deux,
+.trois-trois,
+.un-un {
+  flex-wrap: nowrap;
+}
+.remplacer {
+  display: none;
+}
+/****************************Nathalie**************************/
+.grillCadre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3%;
+}
+.recherche {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.btnColor {
+  padding: 0px 20px;
+  background-color: gray;
+}
+.add {
+  background-color: #f4f4f4;
+  padding: 8%;
+  margin: 2%;
+}
+.folder {
+  background-color: #f4f4f4;
+  padding: 11%;
+  margin: 2%;
+}
+.namecadre {
+  display: flex;
+  align-self: flex-start;
+}
+
+.printQrCode {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.cadre_travail,
+.ligneMotCle_Cdt,
+.lesIcones {
+  border: rgb(196, 196, 199) 1px solid;
+  border-radius: 6px;
+  box-shadow: 2px 4px 4px rgba(146, 145, 145, 0.527);
+}
+.middleIcone {
+  text-align: center;
+}
+
+/*************************Fatou*********************************/
+
+.midtitle {
+  text-align: center;
+}
+.table {
+  color: burlywood;
+}
+.qrcode {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-startcx;
+}
+.btnAjoutMotcle {
+  padding-top: 3%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.titles {
+  color: #da1e28;
+  font-size: large;
+  text-align: center;
+  padding-top: 1px;
+}
+
+.lesBtn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 5%;
+}
+.butform {
+  display: flex;
+  align-items: center;
+  padding-top: 10%;
+}
+.droite {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3%;
+}
+
+.button {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.bas {
+  padding-top: 15%;
+}
+.labelDiapo {
+  display: flex;
+  padding-top: 1%;
+}
+.diapo {
+  padding-right: 2%;
+}
+.labelDescription {
+  padding-top: 5%;
+}
+.selected {
+  background: rgb(122, 144, 171);
+  background: linear-gradient(
+    90deg,
+    rgba(122, 144, 171, 0.42667489359024857) 14%,
+    rgba(156, 235, 241, 0.9868989832261029) 100%
+  );
+  text-align: center;
+  border-radius: 15px;
+  padding-bottom: 1px;
+}
+.testes {
+  background-size: contain;
+  background-size: cover;
+}
